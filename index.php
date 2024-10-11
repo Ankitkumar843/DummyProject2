@@ -4,6 +4,6 @@ echo "Bolo bhai";
 if(true){
     echo "Hello";
 }else{
-    echo "Bye";
+    echo "bye bye";
 }
 ?>
